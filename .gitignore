@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# OS-filer
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+
+# IDE/editor-filer
+.vscode/
+.idea/
+
+# Coverage/Testing
+coverage/
